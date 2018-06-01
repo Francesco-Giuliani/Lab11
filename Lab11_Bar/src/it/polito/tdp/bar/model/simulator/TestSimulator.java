@@ -1,0 +1,10 @@
+package it.polito.tdp.bar.model.simulator;
+
+public class TestSimulator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
